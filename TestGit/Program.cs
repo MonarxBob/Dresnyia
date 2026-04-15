@@ -15,7 +15,7 @@
             Console.WriteLine("Hello, DOBAVIL XUITY!");
             int ab = 51;
             int ba = 21;
-            int cc = ab + ba;
+            int cc = a + ba;
             Console.WriteLine(cc);
         }
     }
